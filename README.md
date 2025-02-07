@@ -41,7 +41,7 @@ python ddos_monitor.py
   ## Screenshots
 
 ### Main Interface
-(![image](https://github.com/user-attachments/assets/eb6b99a8-93ed-49ce-878f-b83e52db60da)
+![image](https://github.com/user-attachments/assets/eb6b99a8-93ed-49ce-878f-b83e52db60da)
 
 
 ## How It Works
