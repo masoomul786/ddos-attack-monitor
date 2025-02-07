@@ -38,6 +38,12 @@ python ddos_monitor.py
 - **Graphical visualization:** Displays live graphs of system activity.
 - **Logging system:** Saves attack logs for future analysis.
 
+  ## Screenshots
+
+### Main Interface
+(![image](https://github.com/user-attachments/assets/eb6b99a8-93ed-49ce-878f-b83e52db60da)
+
+
 ## How It Works
 - The tool continuously monitors CPU usage, network activity, and connections.
 - If system metrics exceed predefined thresholds, an attack alert is triggered.
@@ -49,6 +55,7 @@ The tool provides a Tkinter-based user interface with:
 - Live graphs for CPU, memory, network, and connection statistics.
 - Warning labels to indicate detected attacks.
 - Control panel for enabling/disabling attack detection and IP blocking.
+
 
 ## Contributing
 Pull requests are welcome. If you have suggestions or want to improve this tool, feel free to fork the repository and submit a PR.
